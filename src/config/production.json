@@ -1,0 +1,21 @@
+{
+  "db": {
+    "port": "",
+    "host": "",
+    "name": "",
+    "user": "",
+    "password": ""
+  },
+  "server": {
+    "port": "",
+    "host": "",
+    "base_url": ""
+  },
+  "auth": {
+    "privateKey": ""
+  },
+  "email": {
+    "address": "",
+    "password": ""
+  }
+}

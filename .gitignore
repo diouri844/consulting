@@ -1,0 +1,8 @@
+node_modules
+dist
+routes.ts
+*.log
+TODO
+.idea
+.vscode
+.DS_Store

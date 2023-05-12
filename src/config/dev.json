@@ -1,0 +1,21 @@
+{
+  "db": {
+    "port": "27017",
+    "host": "cluster0.mjhrdua.mongodb.net",
+    "name": "beekeeping-db",
+    "user": "tywaynebuchanan",
+    "password": "lBe76QbSgs6Vz8W3"
+  },
+  "server": {
+    "port": "8084",
+    "host": "localhost",
+    "base_url": "http://localhost:8084/api/v1"
+  },
+  "auth": {
+    "privateKey": "ss123mlopgkti890"
+  },
+  "email": {
+    "address": "beeskeeping@gmail.com",
+    "password": "1234567"
+  }
+}
