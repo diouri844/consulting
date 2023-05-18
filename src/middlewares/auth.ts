@@ -23,6 +23,7 @@ export function authMiddleware(
     }
     req.userId = decoded.sub.toString();
     next();
+    return;
   } catch (error) {
     console.log(error);
     return res.status(401).json({ message: 'Unauthorized' });
